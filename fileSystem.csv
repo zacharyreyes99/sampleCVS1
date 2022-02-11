@@ -1,0 +1,12 @@
+key,parent
+rootFolder,
+File1,rootFolder
+File2,rootFolder
+Folder1,rootFolder
+File2_1,Folder1
+File2_2,Folder1
+File2_3,Folder1
+File2_4,Folder1
+Folder2,Folder1
+File3_1,Folder2
+File3_2,Folder2
